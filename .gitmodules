@@ -7,3 +7,8 @@
 	path = OCA/purchase-workflow
 	url = git@github.com:OCA/purchase-workflow.git
 	branch = 14.0
+
+[submodule "OCA/purchase-workflow/purchase_tier_validation"]
+	path = OCA/purchase-workflow/purchase_tier_validation
+	url = git@github.com:OCA/purchase-workflow.git
+	branch = 14.0
